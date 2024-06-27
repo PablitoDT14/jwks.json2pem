@@ -1,8 +1,3 @@
-This is a Python script to trasnform any jwks.json certificate into a pem file
+This is a Python script to trasnform any jwks.json certificate into a pem file.
 
-1 Name your certificate file as jwks.json 
-2 Put it into the same py script file
-3 Execute the script
-4 Get the pem file as result
-
-Thanks for reading
+To perform the needed actions please name your certificate file as jwks.json and place it into the same py script file path. Then, execute the script from the terminal as python3 jwk_to_pem.py and you'll get the result PEM file at the same location.
